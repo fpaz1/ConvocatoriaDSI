@@ -1,0 +1,14 @@
+C:\Users\Leopard\source\repos\Convocatoria\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Leopard\source\repos\Convocatoria\Datos\bin\Debug\net6.0\Datos.runtimeconfig.json
+C:\Users\Leopard\source\repos\Convocatoria\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Leopard\source\repos\Convocatoria\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\Datos.genruntimeconfig.cache
+C:\Users\Leopard\source\repos\Convocatoria\Datos\obj\Debug\net6.0\ref\Datos.dll

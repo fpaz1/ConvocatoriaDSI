@@ -1,0 +1,15 @@
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\bin\Debug\net6.0\Negocio.deps.json
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\bin\Debug\net6.0\Negocio.dll
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\bin\Debug\net6.0\Negocio.pdb
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\bin\Debug\net6.0\Datos.dll
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\bin\Debug\net6.0\Datos.pdb
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.dll
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\Negocio.pdb
+C:\Users\Leopard\source\repos\Convocatoria\Negocio\obj\Debug\net6.0\ref\Negocio.dll
